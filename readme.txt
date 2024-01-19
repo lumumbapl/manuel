@@ -3,7 +3,7 @@ Contributors: smartkenyan
 Donate link: https://nabaleka.com/
 Tags: broken links, broken images, links, images, posts
 Requires at least: 5.8
-Tested up to: 6.3
+Tested up to: 6.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,7 @@ Manuel is a WordPress plugin that searches and removes broken links and images i
 
 == Description ==
 
-Manuel is a WordPress plugin that searches and removes broken links and images in WordPress posts, and updates the modified dates of these posts.
+Manuel is a WordPress plugin that searches and removes broken links and images in WordPress posts and updates the modified dates of these posts.
 
 == Installation ==
 
